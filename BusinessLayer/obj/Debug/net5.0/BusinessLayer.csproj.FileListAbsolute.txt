@@ -1,0 +1,17 @@
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\yusuf12\source\repos\AspcoreBlog\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
